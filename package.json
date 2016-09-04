@@ -1,0 +1,22 @@
+{
+  "name": "learning-lib",
+  "version": "1.0.0",
+  "description": "Learning from tutorial",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajmchambers/learning-lib.git"
+  },
+  "author": "Alan Chambers <ajmchambers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajmchambers/learning-lib/issues"
+  },
+  "homepage": "https://github.com/ajmchambers/learning-lib#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
